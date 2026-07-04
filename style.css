@@ -1,1 +1,17 @@
-
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #1e1e2e;
+    color: white;
+}
+#montantDalasis {
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+#boutonConvertir {
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
